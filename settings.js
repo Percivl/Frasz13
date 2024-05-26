@@ -17,8 +17,8 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = 'CheemsBot MD-V13' //ur bot Name
-global.ownernumber = '22395064497' //ur owner number
-global.ownername = '𝑏𝑤𝑎𝑏𝑦𝑚𝑜𝑢𝑑𝑦♨︎' //ur owner name
+global.ownernumber = '22369641065' //ur owner number
+global.ownername = 'jiba' //ur owner name
 global.websitex = "https://www.instagram.com/bwaby_6.0"
 global.wagc = "https://whatsapp.com/channel/0029VaZkyixAO7RPQWYG3M2m"
 global.themeemoji = '🦋'
@@ -27,7 +27,7 @@ global.botscript = 'https://github.com/Gola223/Frasz13' //script link
 global.packname = "malien_den"
 global.author = "𝑏𝑤𝑎𝑏𝑦𝑚𝑜𝑢𝑑𝑦♨︎\n\n+22395064497"
 global.creator = "22395064497@s.whatsapp.net"
-global.xprefix = '.'
+global.xprefix = 'J'
 global.premium = ["223895064497"] // Premium User
 global.hituet = 0
 
